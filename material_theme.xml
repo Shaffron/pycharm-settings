@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
+    <option name="darkTitleBar" value="false" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -9,7 +10,7 @@
     <option name="pristineConfig" value="false" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="tabFontSize" value="14" />
-    <option name="settingsSelectedTab" value="1" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="accentColor" value="ffd866" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-536f132c:16e7bd9bc1e:-8000" />
