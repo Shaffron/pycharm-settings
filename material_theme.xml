@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
-    <option name="darkTitleBar" value="false" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
@@ -16,6 +15,6 @@
     <option name="accentColor" value="ffd866" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-536f132c:16e7bd9bc1e:-8000" />
-    <option name="version" value="4.11.2" />
+    <option name="version" value="4.11.4" />
   </component>
 </application>
