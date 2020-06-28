@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="요" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
@@ -11,5 +11,6 @@
     <mask>a*.py</mask>
     <mask>*.php</mask>
     <mask>*.py</mask>
+    <mask>요</mask>
   </component>
 </application>
