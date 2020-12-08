@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="sqlsql" type="PLAIN_TEXT" />
+      <mapping pattern=".dump.cnf" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
