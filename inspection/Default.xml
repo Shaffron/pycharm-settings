@@ -87,4 +87,11 @@
       </value>
     </option>
   </inspection_tool>
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="virtual.bank.inner_transfer_process.create_inner_transfer_for_disburse.si" />
+      </list>
+    </option>
+  </inspection_tool>
 </profile>
